@@ -40,13 +40,13 @@ button.btn:hover {
 
 /* Désactiver le changement de couleur sur le clic */
 button.btn:active {
-    background-color: blue !important;
+    background-color: #152171 !important;
     color: white !important;
 }
 
 /* Désactiver le changement de couleur sur le focus */
 button.btn:focus {
-    background-color: blue !important;
+    background-color: #152171 !important;
     color: white !important;
 }
 
